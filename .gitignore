@@ -1,0 +1,13 @@
+*.db
+
+*.sqlite
+
+*.sqlite3
+
+bin/
+
+coverage.out
+
+.idea/
+
+.vscode/
